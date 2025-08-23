@@ -1,3 +1,4 @@
 ## About Me Website
 
-<img width="1922" height="4445" alt="image" src="https://github.com/user-attachments/assets/bc719c29-cfac-42af-b099-d368536ff7a0" />
+<img width="1895" height="4445" alt="image" src="https://github.com/user-attachments/assets/1d6048fa-7b68-4b83-b01a-519f0d00b9b5" />
+
